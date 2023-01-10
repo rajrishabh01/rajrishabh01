@@ -8,7 +8,7 @@ Having started my bachelor's in Electronics Engineering without much exposure to
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [raj.ris@northeastern.edu](mailto:raj.ris@northeastern.edu)
-* 🧠  I'm learning AI and ML combined with Information Retrieval
+* 🧠  I'm learning NLP combined with Information Retrieval
 * 🤝  I'm open to collaborating on Web, DevOps, Java, Spring, Hybris, and ML Projects.
 * ⚡  I like to spend my free time Reading, Playing Video Games, Strength Training or making Music!
 
