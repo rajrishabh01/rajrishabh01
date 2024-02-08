@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishabh Raj!
 ====================================================================================================================================
 
-Web Developer, DevOps, AI/ML Enthusiast and Java Specialist.
+Software Engineer, Bibliophile, Gamer, Musician.
 ------------------------------------------------------------
 
-Having started my bachelor's in Electronics Engineering without much exposure to programming, I discovered my interest with my first ML project. I wanted to solve a problem for my professors and ended up creating a product to scan and input marks into an excel with CNN, OpenCV and R-Pi. After which I continued my passion with 4 years of experience in engineering multiple B2C and B2B E-Commerce Web App Development based on Spring MVC, React JS, and MySQL at Deloitte. I decided to up skill and pursue this passion by joining the MS CS program at Khoury College of Computer Science, Northeastern University where I secured a job as a Teaching assistant to Professor Eli Barzilay for the class Programming Languages, teaching and grading over 100 students.
+As a seasoned Software Engineer with 4.5 years of experience and a Master's in CS from Khoury, Northeastern University - I bring a wealth of expertise in developing innovative, scalable software solutions. My academic and professional journey has endowed me with a profound skill set in programming languages such as Java, JavaScript, and Python, and mastery over frameworks like ReactJS, Spring MVC, and Kubernetes. With a track record of driving significant improvements in CI/CD pipelines and distributed systems in healthcare and e-commerce platforms or products, I am adept at leveraging technology to solve complex challenges and enhance operational efficiency.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [raj.ris@northeastern.edu](mailto:raj.ris@northeastern.edu)
-* 🧠  I'm learning NLP combined with Information Retrieval
+* 🧠  I'm learning AWS and Automation frameworks.
 * 🤝  I'm open to collaborating on Web, DevOps, Java, Spring, Hybris, and ML Projects.
 * ⚡  I like to spend my free time Reading, Playing Video Games, Strength Training or making Music!
 
